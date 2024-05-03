@@ -16,4 +16,20 @@ This Python script downloads a YouTube video, extracts its audio, transcribes th
 ## Installation
 
 You can install the required libraries using pip:
+```
+pip install pytube moviepy deepgram-sdk requests
+```
+
+
+## Usage
+
+1. Replace the placeholders for YouTube video URL, Deepgram API key, and Eleven Labs API key with your actual values.
+2. Run the script.
+3. The script will download the YouTube video, extract its audio, transcribe the audio, and finally synthesize the transcription into speech.
+
+## Important Notes
+
+- Ensure that you have valid API keys for Deepgram and Eleven Labs APIs.
+- This script may take some time to run depending on the length of the video and audio transcription.
+
 
