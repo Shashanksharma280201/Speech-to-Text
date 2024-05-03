@@ -15,9 +15,9 @@ video_url = "https://www.youtube.com/shorts/Fu4AWHjeS_k"
 output_path = './'
 
 # Deepgram API key
-DEEPGRAM_API_KEY = '3e8e6d68-0225-414d-9c04-c6b6c9f2428b'
+DEEPGRAM_API_KEY = 'DEEPGRAM_API_KEY'
 # Eleven Labs API key
-ELEVENLABS_API_KEY = "568d071f3114d72458f4072f917c0a26"
+ELEVENLABS_API_KEY = "ELEVENLABS_API_KEY"
 
 def download_youtube_video(url, output_path='./'):
     try:
