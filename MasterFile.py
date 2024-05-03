@@ -1,3 +1,8 @@
+# !pip install pytube moviepy deepgram-sdk
+# !pip install requests
+
+
+
 import os
 import requests
 from pytube import YouTube
