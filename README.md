@@ -1,5 +1,7 @@
 # Speech-to-Text
 
+# Task 1
+
 ## YouTube Video Transcription and Speech Synthesis
 
 This Python script downloads a YouTube video, extracts its audio, transcribes the audio using the Deepgram API, and then converts the transcription to speech using the Eleven Labs API.
@@ -33,3 +35,21 @@ pip install pytube moviepy deepgram-sdk requests
 - This script may take some time to run depending on the length of the video and audio transcription.
 
 
+# Task 2
+
+# Web Scraper for TechCrunch Articles
+
+This is a simple Python script that scrapes the content of a TechCrunch article and prints it out. It utilizes the Beautiful Soup library for parsing HTML content.
+
+## Prerequisites
+
+Before running the script, make sure you have the following installed:
+
+- Python 3.x
+- Beautiful Soup 4 library
+
+If you're using Google Colab, you can install Beautiful Soup by running the following command in a code cell:
+```
+!pip install beautifulsoup4 : to run on google colab
+pip install beautifulsoup4 : to run on host machine
+```
