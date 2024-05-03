@@ -1,0 +1,718 @@
+{
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "You handled 18,362 cases, 36 cases a day. That's beyond impressive. Thank you. You took a 147 to trial winning them all. Don't go to trial if you're not gonna win. Why'd you leave? An attorney by the name of Jessica Pearson helped me get through law school, and she felt that I could use trial experience. But I always planned on ending up at her firm and paying her back by earning that firm. Outrageous settlement. How am I doing? Think it's better. I just need somebody.",
+                        "confidence": 0.9971637,
+                        "words": [
+                            {
+                                "word": "you",
+                                "start": 0.08,
+                                "end": 0.24,
+                                "confidence": 0.9278408,
+                                "punctuated_word": "You"
+                            },
+                            {
+                                "word": "handled",
+                                "start": 0.24,
+                                "end": 0.74,
+                                "confidence": 0.996772,
+                                "punctuated_word": "handled"
+                            },
+                            {
+                                "word": "18,362",
+                                "start": 0.88,
+                                "end": 1.38,
+                                "confidence": 0.97160935,
+                                "punctuated_word": "18,362"
+                            },
+                            {
+                                "word": "cases",
+                                "start": 2.8799999,
+                                "end": 3.3799999,
+                                "confidence": 0.74305165,
+                                "punctuated_word": "cases,"
+                            },
+                            {
+                                "word": "36",
+                                "start": 3.84,
+                                "end": 4.24,
+                                "confidence": 0.863547,
+                                "punctuated_word": "36"
+                            },
+                            {
+                                "word": "cases",
+                                "start": 4.24,
+                                "end": 4.56,
+                                "confidence": 0.99481887,
+                                "punctuated_word": "cases"
+                            },
+                            {
+                                "word": "a",
+                                "start": 4.56,
+                                "end": 4.72,
+                                "confidence": 0.9987545,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "day",
+                                "start": 4.72,
+                                "end": 5.22,
+                                "confidence": 0.99560356,
+                                "punctuated_word": "day."
+                            },
+                            {
+                                "word": "that's",
+                                "start": 5.3599997,
+                                "end": 5.68,
+                                "confidence": 0.99736446,
+                                "punctuated_word": "That's"
+                            },
+                            {
+                                "word": "beyond",
+                                "start": 5.68,
+                                "end": 6.08,
+                                "confidence": 0.9996245,
+                                "punctuated_word": "beyond"
+                            },
+                            {
+                                "word": "impressive",
+                                "start": 6.08,
+                                "end": 6.58,
+                                "confidence": 0.999349,
+                                "punctuated_word": "impressive."
+                            },
+                            {
+                                "word": "thank",
+                                "start": 7.2,
+                                "end": 7.44,
+                                "confidence": 0.98661983,
+                                "punctuated_word": "Thank"
+                            },
+                            {
+                                "word": "you",
+                                "start": 7.44,
+                                "end": 7.94,
+                                "confidence": 0.9995345,
+                                "punctuated_word": "you."
+                            },
+                            {
+                                "word": "you",
+                                "start": 8.0,
+                                "end": 8.16,
+                                "confidence": 0.7974606,
+                                "punctuated_word": "You"
+                            },
+                            {
+                                "word": "took",
+                                "start": 8.16,
+                                "end": 8.4,
+                                "confidence": 0.9993893,
+                                "punctuated_word": "took"
+                            },
+                            {
+                                "word": "a",
+                                "start": 8.4,
+                                "end": 8.48,
+                                "confidence": 0.9581003,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "147",
+                                "start": 8.48,
+                                "end": 8.98,
+                                "confidence": 0.88703775,
+                                "punctuated_word": "147"
+                            },
+                            {
+                                "word": "to",
+                                "start": 9.595,
+                                "end": 9.675,
+                                "confidence": 0.635197,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "trial",
+                                "start": 9.675,
+                                "end": 9.835,
+                                "confidence": 0.9971637,
+                                "punctuated_word": "trial"
+                            },
+                            {
+                                "word": "winning",
+                                "start": 9.835,
+                                "end": 10.075,
+                                "confidence": 0.6863049,
+                                "punctuated_word": "winning"
+                            },
+                            {
+                                "word": "them",
+                                "start": 10.075,
+                                "end": 10.315001,
+                                "confidence": 0.9966871,
+                                "punctuated_word": "them"
+                            },
+                            {
+                                "word": "all",
+                                "start": 10.315001,
+                                "end": 10.815001,
+                                "confidence": 0.9992229,
+                                "punctuated_word": "all."
+                            },
+                            {
+                                "word": "don't",
+                                "start": 10.955,
+                                "end": 11.115,
+                                "confidence": 0.9938152,
+                                "punctuated_word": "Don't"
+                            },
+                            {
+                                "word": "go",
+                                "start": 11.115,
+                                "end": 11.275001,
+                                "confidence": 0.99798125,
+                                "punctuated_word": "go"
+                            },
+                            {
+                                "word": "to",
+                                "start": 11.275001,
+                                "end": 11.3550005,
+                                "confidence": 0.9960807,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "trial",
+                                "start": 11.3550005,
+                                "end": 11.595,
+                                "confidence": 0.8898926,
+                                "punctuated_word": "trial"
+                            },
+                            {
+                                "word": "if",
+                                "start": 11.595,
+                                "end": 11.675,
+                                "confidence": 0.86418194,
+                                "punctuated_word": "if"
+                            },
+                            {
+                                "word": "you're",
+                                "start": 11.675,
+                                "end": 11.835,
+                                "confidence": 0.9990529,
+                                "punctuated_word": "you're"
+                            },
+                            {
+                                "word": "not",
+                                "start": 11.835,
+                                "end": 11.995,
+                                "confidence": 0.999595,
+                                "punctuated_word": "not"
+                            },
+                            {
+                                "word": "gonna",
+                                "start": 11.995,
+                                "end": 12.155001,
+                                "confidence": 0.97965896,
+                                "punctuated_word": "gonna"
+                            },
+                            {
+                                "word": "win",
+                                "start": 12.155001,
+                                "end": 12.655001,
+                                "confidence": 0.99905944,
+                                "punctuated_word": "win."
+                            },
+                            {
+                                "word": "why'd",
+                                "start": 13.755,
+                                "end": 13.995001,
+                                "confidence": 0.93443525,
+                                "punctuated_word": "Why'd"
+                            },
+                            {
+                                "word": "you",
+                                "start": 13.995001,
+                                "end": 14.155001,
+                                "confidence": 0.9984571,
+                                "punctuated_word": "you"
+                            },
+                            {
+                                "word": "leave",
+                                "start": 14.155001,
+                                "end": 14.655001,
+                                "confidence": 0.9895908,
+                                "punctuated_word": "leave?"
+                            },
+                            {
+                                "word": "an",
+                                "start": 15.275,
+                                "end": 15.515,
+                                "confidence": 0.9699524,
+                                "punctuated_word": "An"
+                            },
+                            {
+                                "word": "attorney",
+                                "start": 15.515,
+                                "end": 15.915,
+                                "confidence": 0.9982597,
+                                "punctuated_word": "attorney"
+                            },
+                            {
+                                "word": "by",
+                                "start": 15.915,
+                                "end": 16.075,
+                                "confidence": 0.98276055,
+                                "punctuated_word": "by"
+                            },
+                            {
+                                "word": "the",
+                                "start": 16.075,
+                                "end": 16.235,
+                                "confidence": 0.9994018,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "name",
+                                "start": 16.235,
+                                "end": 16.395,
+                                "confidence": 0.9998851,
+                                "punctuated_word": "name"
+                            },
+                            {
+                                "word": "of",
+                                "start": 16.395,
+                                "end": 16.555,
+                                "confidence": 0.9974245,
+                                "punctuated_word": "of"
+                            },
+                            {
+                                "word": "jessica",
+                                "start": 16.555,
+                                "end": 17.035,
+                                "confidence": 0.9982047,
+                                "punctuated_word": "Jessica"
+                            },
+                            {
+                                "word": "pearson",
+                                "start": 17.035,
+                                "end": 17.535,
+                                "confidence": 0.9828258,
+                                "punctuated_word": "Pearson"
+                            },
+                            {
+                                "word": "helped",
+                                "start": 17.595001,
+                                "end": 17.755001,
+                                "confidence": 0.984723,
+                                "punctuated_word": "helped"
+                            },
+                            {
+                                "word": "me",
+                                "start": 17.755001,
+                                "end": 17.915,
+                                "confidence": 0.99980444,
+                                "punctuated_word": "me"
+                            },
+                            {
+                                "word": "get",
+                                "start": 17.915,
+                                "end": 18.075,
+                                "confidence": 0.9987789,
+                                "punctuated_word": "get"
+                            },
+                            {
+                                "word": "through",
+                                "start": 18.075,
+                                "end": 18.395,
+                                "confidence": 0.9991093,
+                                "punctuated_word": "through"
+                            },
+                            {
+                                "word": "law",
+                                "start": 18.395,
+                                "end": 18.555,
+                                "confidence": 0.99429905,
+                                "punctuated_word": "law"
+                            },
+                            {
+                                "word": "school",
+                                "start": 18.555,
+                                "end": 19.055,
+                                "confidence": 0.8772273,
+                                "punctuated_word": "school,"
+                            },
+                            {
+                                "word": "and",
+                                "start": 19.43,
+                                "end": 19.67,
+                                "confidence": 0.999569,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "she",
+                                "start": 19.67,
+                                "end": 20.07,
+                                "confidence": 0.9994487,
+                                "punctuated_word": "she"
+                            },
+                            {
+                                "word": "felt",
+                                "start": 20.07,
+                                "end": 20.390001,
+                                "confidence": 0.99979156,
+                                "punctuated_word": "felt"
+                            },
+                            {
+                                "word": "that",
+                                "start": 20.390001,
+                                "end": 20.630001,
+                                "confidence": 0.9997074,
+                                "punctuated_word": "that"
+                            },
+                            {
+                                "word": "i",
+                                "start": 20.630001,
+                                "end": 20.710001,
+                                "confidence": 0.9997582,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "could",
+                                "start": 20.710001,
+                                "end": 21.03,
+                                "confidence": 0.99982446,
+                                "punctuated_word": "could"
+                            },
+                            {
+                                "word": "use",
+                                "start": 21.03,
+                                "end": 21.35,
+                                "confidence": 0.99892384,
+                                "punctuated_word": "use"
+                            },
+                            {
+                                "word": "trial",
+                                "start": 21.35,
+                                "end": 21.75,
+                                "confidence": 0.9988458,
+                                "punctuated_word": "trial"
+                            },
+                            {
+                                "word": "experience",
+                                "start": 21.75,
+                                "end": 22.25,
+                                "confidence": 0.87556046,
+                                "punctuated_word": "experience."
+                            },
+                            {
+                                "word": "but",
+                                "start": 23.03,
+                                "end": 23.51,
+                                "confidence": 0.98894507,
+                                "punctuated_word": "But"
+                            },
+                            {
+                                "word": "i",
+                                "start": 23.51,
+                                "end": 23.75,
+                                "confidence": 0.98733866,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "always",
+                                "start": 23.75,
+                                "end": 24.07,
+                                "confidence": 0.9994168,
+                                "punctuated_word": "always"
+                            },
+                            {
+                                "word": "planned",
+                                "start": 24.07,
+                                "end": 24.57,
+                                "confidence": 0.99693334,
+                                "punctuated_word": "planned"
+                            },
+                            {
+                                "word": "on",
+                                "start": 25.11,
+                                "end": 25.35,
+                                "confidence": 0.99947613,
+                                "punctuated_word": "on"
+                            },
+                            {
+                                "word": "ending",
+                                "start": 25.35,
+                                "end": 25.67,
+                                "confidence": 0.9995716,
+                                "punctuated_word": "ending"
+                            },
+                            {
+                                "word": "up",
+                                "start": 25.67,
+                                "end": 25.91,
+                                "confidence": 0.9990995,
+                                "punctuated_word": "up"
+                            },
+                            {
+                                "word": "at",
+                                "start": 25.91,
+                                "end": 26.07,
+                                "confidence": 0.9996201,
+                                "punctuated_word": "at"
+                            },
+                            {
+                                "word": "her",
+                                "start": 26.07,
+                                "end": 26.310001,
+                                "confidence": 0.99961543,
+                                "punctuated_word": "her"
+                            },
+                            {
+                                "word": "firm",
+                                "start": 26.310001,
+                                "end": 26.810001,
+                                "confidence": 0.9992256,
+                                "punctuated_word": "firm"
+                            },
+                            {
+                                "word": "and",
+                                "start": 27.195,
+                                "end": 27.435,
+                                "confidence": 0.998874,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "paying",
+                                "start": 27.435,
+                                "end": 27.675,
+                                "confidence": 0.99946004,
+                                "punctuated_word": "paying"
+                            },
+                            {
+                                "word": "her",
+                                "start": 27.675,
+                                "end": 27.914999,
+                                "confidence": 0.9998363,
+                                "punctuated_word": "her"
+                            },
+                            {
+                                "word": "back",
+                                "start": 27.914999,
+                                "end": 28.155,
+                                "confidence": 0.99984443,
+                                "punctuated_word": "back"
+                            },
+                            {
+                                "word": "by",
+                                "start": 28.155,
+                                "end": 28.475,
+                                "confidence": 0.999081,
+                                "punctuated_word": "by"
+                            },
+                            {
+                                "word": "earning",
+                                "start": 28.475,
+                                "end": 28.795,
+                                "confidence": 0.99919444,
+                                "punctuated_word": "earning"
+                            },
+                            {
+                                "word": "that",
+                                "start": 28.795,
+                                "end": 29.115,
+                                "confidence": 0.9962257,
+                                "punctuated_word": "that"
+                            },
+                            {
+                                "word": "firm",
+                                "start": 29.115,
+                                "end": 29.515,
+                                "confidence": 0.8106264,
+                                "punctuated_word": "firm."
+                            },
+                            {
+                                "word": "outrageous",
+                                "start": 29.515,
+                                "end": 30.015,
+                                "confidence": 0.99920964,
+                                "punctuated_word": "Outrageous"
+                            },
+                            {
+                                "word": "settlement",
+                                "start": 30.075,
+                                "end": 30.575,
+                                "confidence": 0.89383215,
+                                "punctuated_word": "settlement."
+                            },
+                            {
+                                "word": "how",
+                                "start": 31.355,
+                                "end": 31.515,
+                                "confidence": 0.81560975,
+                                "punctuated_word": "How"
+                            },
+                            {
+                                "word": "am",
+                                "start": 31.515,
+                                "end": 31.595,
+                                "confidence": 0.7339764,
+                                "punctuated_word": "am"
+                            },
+                            {
+                                "word": "i",
+                                "start": 31.595,
+                                "end": 31.675,
+                                "confidence": 0.9990025,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "doing",
+                                "start": 31.675,
+                                "end": 32.175,
+                                "confidence": 0.97811353,
+                                "punctuated_word": "doing?"
+                            },
+                            {
+                                "word": "think",
+                                "start": 32.395,
+                                "end": 32.555,
+                                "confidence": 0.37952128,
+                                "punctuated_word": "Think"
+                            },
+                            {
+                                "word": "it's",
+                                "start": 32.555,
+                                "end": 32.715,
+                                "confidence": 0.9024489,
+                                "punctuated_word": "it's"
+                            },
+                            {
+                                "word": "better",
+                                "start": 32.715,
+                                "end": 33.215,
+                                "confidence": 0.809358,
+                                "punctuated_word": "better."
+                            },
+                            {
+                                "word": "i",
+                                "start": 35.675,
+                                "end": 35.835,
+                                "confidence": 0.21655858,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "just",
+                                "start": 35.835,
+                                "end": 36.075,
+                                "confidence": 0.30182523,
+                                "punctuated_word": "just"
+                            },
+                            {
+                                "word": "need",
+                                "start": 36.075,
+                                "end": 36.235,
+                                "confidence": 0.3465054,
+                                "punctuated_word": "need"
+                            },
+                            {
+                                "word": "somebody",
+                                "start": 36.235,
+                                "end": 36.735,
+                                "confidence": 0.5352124,
+                                "punctuated_word": "somebody."
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nYou handled 18,362 cases, 36 cases a day. That's beyond impressive. Thank you. You took a 147 to trial winning them all. Don't go to trial if you're not gonna win.\n\nWhy'd you leave? An attorney by the name of Jessica Pearson helped me get through law school, and she felt that I could use trial experience. But I always planned on ending up at her firm and paying her back by earning that firm. Outrageous settlement. How am I doing?\n\nThink it's better. I just need somebody.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "You handled 18,362 cases, 36 cases a day.",
+                                            "start": 0.08,
+                                            "end": 5.22
+                                        },
+                                        {
+                                            "text": "That's beyond impressive.",
+                                            "start": 5.3599997,
+                                            "end": 6.58
+                                        },
+                                        {
+                                            "text": "Thank you.",
+                                            "start": 7.2,
+                                            "end": 7.94
+                                        },
+                                        {
+                                            "text": "You took a 147 to trial winning them all.",
+                                            "start": 8.0,
+                                            "end": 10.815001
+                                        },
+                                        {
+                                            "text": "Don't go to trial if you're not gonna win.",
+                                            "start": 10.955,
+                                            "end": 12.655001
+                                        }
+                                    ],
+                                    "start": 0.08,
+                                    "end": 12.655001,
+                                    "num_words": 31
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Why'd you leave?",
+                                            "start": 13.755,
+                                            "end": 14.655001
+                                        },
+                                        {
+                                            "text": "An attorney by the name of Jessica Pearson helped me get through law school, and she felt that I could use trial experience.",
+                                            "start": 15.275,
+                                            "end": 22.25
+                                        },
+                                        {
+                                            "text": "But I always planned on ending up at her firm and paying her back by earning that firm.",
+                                            "start": 23.03,
+                                            "end": 29.515
+                                        },
+                                        {
+                                            "text": "Outrageous settlement.",
+                                            "start": 29.515,
+                                            "end": 30.575
+                                        },
+                                        {
+                                            "text": "How am I doing?",
+                                            "start": 31.355,
+                                            "end": 32.175
+                                        }
+                                    ],
+                                    "start": 13.755,
+                                    "end": 32.175,
+                                    "num_words": 50
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Think it's better.",
+                                            "start": 32.395,
+                                            "end": 33.215
+                                        },
+                                        {
+                                            "text": "I just need somebody.",
+                                            "start": 35.675,
+                                            "end": 36.735
+                                        }
+                                    ],
+                                    "start": 32.395,
+                                    "end": 36.735,
+                                    "num_words": 7
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
