@@ -1,7 +1,7 @@
 import requests
 
 def text_to_speech(text, voice="en-US", format="mp3"):
-    api_key = "568d071f3114d72458f4072f917c0a26"  # Replace with your Eleven Labs API key
+    api_key = "ELEVENLABS_API_KEY"  # Replace with your Eleven Labs API key
     url = "https://api.elevenlabs.io/v1/tts"
 
     headers = {

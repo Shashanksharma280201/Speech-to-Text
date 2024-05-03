@@ -15,7 +15,7 @@ AUDIO_FILE = "audio_extracted.mp3"
 
 def main():
     try:
-        deepgram = DeepgramClient("9a0efccebc0645a6f32582c944466c0dbceff3a9")
+        deepgram = DeepgramClient("DEEPGRAM_API_KEY")
 
         with open(AUDIO_FILE, "rb") as file:
             buffer_data = file.read()
