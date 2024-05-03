@@ -7,10 +7,10 @@ This Python script downloads a YouTube video, extracts its audio, transcribes th
 ### Requirements
 ```
 - Python 3.x
-- `pytube`: To download YouTube videos.
-- `moviepy`: To extract audio from the video.
-- `deepgram-sdk`: To transcribe the audio using Deepgram API.
-- `requests`: To make HTTP requests for the Eleven Labs API.
+- pytube : To download YouTube videos.
+- moviepy : To extract audio from the video.
+- deepgram-sdk : To transcribe the audio using Deepgram API.
+- requests : To make HTTP requests for the Eleven Labs API.
 ```
 
 ## Installation
